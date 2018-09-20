@@ -1,0 +1,15 @@
+{
+  "name": "fp_helloworld",
+  "version": "1.0.0",
+  "description": "Functional Programming examples on a Hello World level.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "folktale": "^2.3.0",
+    "ramda": "^0.25.0"
+  }
+}
